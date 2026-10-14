@@ -152,3 +152,8 @@ The FQ-PIE algorithm introduces no specific security exposures. The flow queuing
 This document has no IANA actions.
 
 --- back
+
+# Acknowledgments
+{:numbered="false"}
+
+The author would like to thank Michael Welzl, Sebastian Moeller, Chris Box, and Greg White for suggesting improvements to this document. The author also thanks the developers and contributors of the FQ-PIE implementations in Linux, FreeBSD, and ns-3. Vishal Kamath and Arun Kumar R contributed to the FQ-PIE experiments.
